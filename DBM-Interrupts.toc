@@ -1,13 +1,19 @@
-## Interface: 100007
-## X-Min-Interface: 100007
+## Interface: 110000, 110002
+## X-Min-Interface: 110002
 ## X-Min-Interface-Classic: 11403
 ## X-Min-Interface-BCC: 20504
 ## X-Min-Interface-Wrath: 30401
 ## Title: |cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Interrupts|r
-## Version: 2.5.4b
+## Version: 2.5.4c
 ## Author: Tristan Maxson
 ## Notes: Adds Interrupt Timers To DBM
 ## X-DBM-Mod-Category: General
 ## X-DBM-Mod-Name: DBM-Interrupts
+## Deps: DBM-Core
+
+# X-Contributors: 
+# X-GitHub-Repo: 
+## X-Curse-Project-ID: dbm-interrupts
+## X-Localization: enUS
 
 Interrupt.lua
